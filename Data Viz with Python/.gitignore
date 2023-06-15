@@ -1,26 +1,4 @@
 env/
-../.aws
-../.azure
-../.bash_history
-../.bash_logout
-../.bashrc
-../.cache/
-../.config/
-../.docker/
-../.dotnet/
-../.gitconfig
-../.ipython/
-../.lesshst
-../.local/
-../.motd_shown
-../.profile
-../.python_history
-../.python_history-00035.tmp
-../.ssh/
-../.sudo_as_admin_successful
-../.viminfo
-../.vscode-server/
-../.wget-hsts
 ../Datasets/
 ../Makro_database/
 ../Python 102/
