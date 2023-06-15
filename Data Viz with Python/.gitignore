@@ -1,6 +1,2 @@
 env/
-../Datasets/
-../Makro_database/
-../Python 102/
-../Python 103/
-../np-pd/
+'../np-pd/'
